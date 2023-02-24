@@ -1,6 +1,5 @@
 import './App.css'
 
-// These are the list used in the application. You can move them to any component needed.
 const initialHistoryList = [
   {
     id: 0,
@@ -75,8 +74,6 @@ const initialHistoryList = [
     domainUrl: 'google.com',
   },
 ]
-
-// Replace your code here
 const App = () => <div>Hello World</div>
 
 export default App
